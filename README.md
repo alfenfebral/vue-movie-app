@@ -1,21 +1,16 @@
-# movie-app
+## Vue Movie App
 
-## Project setup
-```
-npm install
-```
+Simple application to search for movies (themoviedb).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Instructions
 
-### Compiles and minifies for production
-```
-npm run build
-```
+replace <API_KEY> to your api key in store.js
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Dependencies
+
+- vuex
+- debounce
+
+### Image Example
+
+![Alt text](example/image1.png?raw=true 'Title')
